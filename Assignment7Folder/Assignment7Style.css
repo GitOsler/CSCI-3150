@@ -1,0 +1,29 @@
+h1, h2 {
+    color: red;
+  }
+  /*Adjustment #3, changing colors of h1 and h2 elements. I noticed that the h1, h2 object only takes h2's input */
+  
+  p {
+    color: gray;
+  }
+  
+  ul {
+    border: 10px solid orange;
+  }
+  /*Adjustment #2, thickened the border around the unordered list */
+  ol {
+    border: 10px solid purple;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  h1, strong {
+    color: orange;
+  }
+  
+  em {
+    color: gray;
+  }
